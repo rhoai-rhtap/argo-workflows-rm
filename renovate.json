@@ -7,7 +7,7 @@
   "baseBranches": ["main"],
   "ignoreTests": true,
   "automergeType": "pr",
-  "automerge": true,
+  "automerge": false,
   "enabledManagers": ["dockerfile", "tekton"],
   "dockerfile": {
     "enabled": true,
